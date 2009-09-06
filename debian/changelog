@@ -12,8 +12,9 @@ seminarix (0.2.0) unstable; urgency=low
 
   [ Stefan Lippers-Hollmann ]
   * conflicts/ replaces/ provides seminarix-notebook-training.
+  * bump standards version to 3.8.3, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 06 Sep 2009 21:46:02 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 06 Sep 2009 21:46:38 +0200
 
 seminarix (0.1.14) unstable; urgency=low
 
