@@ -1,7 +1,5 @@
-seminarix (0.1.15+nmu1) UNRELEASED; urgency=low
+seminarix (0.2.0) unstable; urgency=low
 
-  * Non-maintainer upload.
-  
   [ Fabian Wuertz ]
   * control file updated
   * kPresenter sample files added
@@ -12,13 +10,10 @@ seminarix (0.1.15+nmu1) UNRELEASED; urgency=low
   * teaching path updated
   * seminarix.xml updaded
 
- -- Fabian Wuertz <xadras@sidux.com>  Sun, 06 Sep 2009 16:27:37 +0200
+  [ Stefan Lippers-Hollmann ]
+  * conflicts/ replaces/ provides seminarix-notebook-training.
 
-seminarix (0.1.15) UNRELEASED; urgency=low
-
-  * NOT RELEASED YET
-
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 04 Apr 2009 01:53:21 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 06 Sep 2009 21:46:02 +0200
 
 seminarix (0.1.14) unstable; urgency=low
 
