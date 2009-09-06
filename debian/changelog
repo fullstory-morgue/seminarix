@@ -8,8 +8,9 @@ seminarix (0.1.15+nmu1) UNRELEASED; urgency=low
   * OpenOffice Impress sample files added
   * Regeln teaching files added
   * teaching files updadet from noc
+  * web2 teeaching file added
 
- -- Fabian Wuertz <xadras@sidux.com>  Sun, 06 Sep 2009 15:46:43 +0200
+ -- Fabian Wuertz <xadras@sidux.com>  Sun, 06 Sep 2009 16:15:56 +0200
 
 seminarix (0.1.15) UNRELEASED; urgency=low
 
