@@ -2,25 +2,79 @@
 <!DOCTYPE eduversum>
 <eduversum>
 	<name>Seminarix</name>
-	<description>Diese Dokumente sind im Rahmen des Seminarix Projekts entstahnden. Es handelt sich dabei um Artikel und Arbeitsanweisungen die während des Kurses "notebookgestützten Lehrerausbildung" am Studienseminar Neuss verwendet wurden.</description>
+	<description>Diese Dokumente sind im Rahmen des Seminarix Projekts entstanden. Es handelt sich dabei um Artikel und Arbeitsanweisungen, die während des Kurses "notebookgestützten Lehrerausbildung" am Studienseminar Neuss verwendet wurden.</description>
+
+	<document>
+		<title>Bildbearbeitung und -manipulation</title>
+		<path>/usr/share/seminarix/teaching/projekte/bild/Bildmanipulation_mit_GIMP.html</path>
+		<description>Grundzüge der Bildbearbeitung und Bildmanipulation</description>
+	</document>
+	<document>
+		<title>Datenschutz und Datenklau</title>
+		<path>/usr/share/seminarix/teaching/projekte/datenklau/datenklau.html</path>
+	</document>
+	<document>
+		<title>Datensicherung</title>
+		<path>/usr/share/seminarix/teaching/projekte/datensichern/datensicherung.html</path>
+	</document>
+	<document>
+		<title>Arbeit mit Audiodateien (Beispiel 1)</title>
+		<path>/usr/share/seminarix/teaching/projekte/audio/ProjektBeispielAudio.html</path>
+	</document>
+	<document>
+		<title>Arbeit mit Audiodateien (Beispiel 2)</title>
+		<path>/usr/share/seminarix/teaching/projekte/audio/ProjektBeispielAudio-Musik.html</path>
+	</document>
+	<document>
+		<title>Präsentieren</title>
+		<path>/usr/share/seminarix/teaching/projekte/praesentieren/praesentieren.html</path>
+	</document>
+	<document>
+		<title>MindMapping</title>
+		<path>/usr/share/seminarix/teaching/projekte/mindmap/MindMapping.html</path>
+	</document>
+	<document>
+		<title>Visualisieren</title>
+		<path>/usr/share/seminarix/teaching/projekte/praesentieren/visualisieren.html</path>
+	</document>
+	<document>
+		<title>Website</title>
+		<path>/usr/share/seminarix/teaching/projekte/webseite/web.html</path>
+	</document>
+	<document>
+		<title>Webseitengestaltung</title>
+		<path>/usr/share/seminarix/teaching/projekte/webseite/web2.html</path>
+	</document>
+	<document>
+		<title>Zeitmanagement</title>
+		<path>/usr/share/seminarix/teaching/projekte/zeitmanagement/zeit.html</path>
+	</document>
+	<document>
+		<title>Netzwerken</title>
+		<path>/usr/share/seminarix/teaching/projekte/netz/netz.html</path>
+	</document>
+	<document>
+		<title>Programmieren</title>
+		<path>/usr/share/seminarix/teaching/projekte/kturtle/Programmieren_mit_K-urtle.html</path>
+	</document>
 	<document>
 		<title>Freie Formate</title>
-		<path>/usr/share/seminarix-notebook-training/projekte/freiesoftware/freieformate.html</path>
+		<path>/usr/share/seminarix/teaching/projekte/freiesoftware/freieformate.html</path>
 	</document>
 	<document>
 		<title>Freiesoftware Ausbildung</title>
-		<path>/usr/share/seminarix-notebook-training/projekte/freiesoftware/freiesoftware_ausbildung.html</path>
+		<path>/usr/share/seminarix/teaching/projekte/freiesoftware/freiesoftware_ausbildung.html</path>
 	</document>
 	<document>
 		<title>Freie Software</title>
-		<path>/usr/share/seminarix-notebook-training/projekte/freiesoftware/freiesoftware.html</path>
+		<path>/usr/share/seminarix/teaching/projekte/freiesoftware/freiesoftware.html</path>
 	</document>
 	<document>
 		<title>Freie Software - Nur Alternative oder mehr</title>
-		<path>/usr/share/seminarix-notebook-training/projekte/freiesoftware/freiesoftware.html</path>
+		<path>/usr/share/seminarix/teaching/projekte/freiesoftware/freiesoftware.html</path>
 	</document>
 	<document>
 		<title>Lizenzfragen</title>
-		<path>/usr/share/seminarix-notebook-training/projekte/freiesoftware/lizenzfragen.html</path>
+		<path>/usr/share/seminarix/teaching/projekte/freiesoftware/lizenzfragen.html</path>
 	</document>
 </eduversum>
