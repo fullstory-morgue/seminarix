@@ -9,8 +9,9 @@ seminarix (0.1.15+nmu1) UNRELEASED; urgency=low
   * Regeln teaching files added
   * teaching files updadet from noc
   * web2 teeaching file added
+  * teaching path updated
 
- -- Fabian Wuertz <xadras@sidux.com>  Sun, 06 Sep 2009 16:15:56 +0200
+ -- Fabian Wuertz <xadras@sidux.com>  Sun, 06 Sep 2009 16:21:49 +0200
 
 seminarix (0.1.15) UNRELEASED; urgency=low
 
