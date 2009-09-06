@@ -1,0 +1,4 @@
+teaching/*.html			usr/share/seminarix/teaching/
+teaching/*.png				usr/share/seminarix/teaching/
+teaching/seminarix.xml	usr/share/eduversum/docs/de
+teaching/projekte/*		usr/share/seminarix/teaching/projekte/

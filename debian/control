@@ -1,0 +1,36 @@
+Source: seminarix
+Section: doc
+Priority: extra
+Maintainer: Dinko Sabo <cobra@sidux.com>
+Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>, Ferdinand Thommes <devil@sidux.com> 
+Build-Depends: debhelper (>= 7),
+               imagemagick
+Standards-Version: 3.8.0
+Vcs-Svn: svn://svn.berlios.de/fullstory/seminarix-samples/trunk
+Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/seminarix-samples/trunk/
+
+
+Package: seminarix
+Architecture: all
+Depends: ${misc:Depends}, seminarix-samples, seminarix-teaching
+Description: seminarix samples files for eduversum
+ eduversum and seminarix-handbook can use these files to describe common 
+ functionality of the advertised packages.
+
+
+Package: seminarix-samples
+Architecture: all
+Depends: ${misc:Depends}
+Suggests: eduversum
+Description: seminarix samples files for eduversum
+ eduversum and seminarix-handbook can use these samples to describe common 
+ functionality of the advertised packages.
+
+
+Package: seminarix-teaching
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Suggests: eduversum
+Conflicts: seminarix-notebook-training
+Description: seminarix teaching files for eduversum
+ Web-Pages for application explanations
