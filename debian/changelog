@@ -1,8 +1,10 @@
-seminarix (0.2.1) UNRELEASED; urgency=low
+seminarix (0.2.1) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * modified seminarix.xml to fit the correct structure
+  * fixed typos in übersicht.html
+  * disabled datensichern section
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 06 Sep 2009 21:51:07 +0200
+ -- Dinko Sabo <cobra@sidux.com>  Mon, 26 Oct 2009 10:17:08 +0100
 
 seminarix (0.2.0) unstable; urgency=low
 

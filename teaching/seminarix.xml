@@ -14,10 +14,6 @@
 		<path>/usr/share/seminarix/teaching/projekte/datenklau/datenklau.html</path>
 	</document>
 	<document>
-		<title>Datensicherung</title>
-		<path>/usr/share/seminarix/teaching/projekte/datensichern/datensicherung.html</path>
-	</document>
-	<document>
 		<title>Arbeit mit Audiodateien (Beispiel 1)</title>
 		<path>/usr/share/seminarix/teaching/projekte/audio/ProjektBeispielAudio.html</path>
 	</document>
@@ -28,6 +24,10 @@
 	<document>
 		<title>Präsentieren</title>
 		<path>/usr/share/seminarix/teaching/projekte/praesentieren/praesentieren.html</path>
+	</document>
+	<document>
+		<title>Programmieren</title>
+		<path>/usr/share/seminarix/teaching/projekte/kturtle/Programmieren_mit_K-Turtle.html</path>
 	</document>
 	<document>
 		<title>MindMapping</title>
@@ -52,10 +52,6 @@
 	<document>
 		<title>Netzwerken</title>
 		<path>/usr/share/seminarix/teaching/projekte/netz/netz.html</path>
-	</document>
-	<document>
-		<title>Programmieren</title>
-		<path>/usr/share/seminarix/teaching/projekte/kturtle/Programmieren_mit_K-urtle.html</path>
 	</document>
 	<document>
 		<title>Freie Formate</title>
