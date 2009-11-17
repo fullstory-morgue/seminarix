@@ -70,6 +70,10 @@
 		<path>/usr/share/seminarix/teaching/projekte/freiesoftware/freiesoftware.html</path>
 	</document>
 	<document>
+		<title>Verschlüsselung</title>
+		<path>/usr/share/seminarix/teaching/projekte/verschluesselung/verschluesseln.html</path>
+	</document>
+	<document>
 		<title>Lizenzfragen</title>
 		<path>/usr/share/seminarix/teaching/projekte/freiesoftware/lizenzfragen.html</path>
 	</document>

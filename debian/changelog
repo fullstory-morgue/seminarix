@@ -2,8 +2,10 @@ seminarix (0.2.2) unstable; urgency=low
 
   [ Dinko Sabo ]
   * added encryption information files
+  * added digitalbureau information files
+  * applied encryption link to seminarix.xml
 
- -- Dinko Sabo <cobra@sidux.com>  Tue, 17 Nov 2009 20:55:09 +0100
+ -- Dinko Sabo <cobra@sidux.com>  Tue, 17 Nov 2009 22:25:52 +0100
 
 seminarix (0.2.1) unstable; urgency=low
 
