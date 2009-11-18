@@ -22,6 +22,10 @@
 		<path>/usr/share/seminarix/teaching/projekte/audio/ProjektBeispielAudio-Musik.html</path>
 	</document>
 	<document>
+		<title>Digitales Büro</title>
+		<path>/usr/share/seminarix/teaching/projekte/digitalbuero/digitalbuero.hmtl</path>
+	</document>
+	<document>
 		<title>Präsentieren</title>
 		<path>/usr/share/seminarix/teaching/projekte/praesentieren/praesentieren.html</path>
 	</document>

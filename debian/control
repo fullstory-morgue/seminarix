@@ -1,7 +1,7 @@
 Source: seminarix
 Section: doc
 Priority: extra
-Maintainer: Dinko Sabo <cobra@sidux.com>
+Maintainer: Dinko Sabo <cobrasbyte@gmx.de>
 Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>,
  Ferdinand Thommes <devil@sidux.com> 
 Build-Depends: debhelper (>= 7),
