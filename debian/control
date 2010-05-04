@@ -6,16 +6,20 @@ Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>,
  Ferdinand Thommes <devil@sidux.com> 
 Build-Depends: debhelper (>= 7),
  imagemagick
-Standards-Version: 3.8.3
-Vcs-Svn: svn://svn.berlios.de/fullstory/seminarix-samples/trunk
-Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/seminarix-samples/trunk/
+Standards-Version: 3.8.4
+Vcs-Svn: svn://svn.berlios.de/fullstory/seminarix/trunk
+Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/seminarix/trunk/
 
 Package: seminarix
 Architecture: all
-Depends: ${misc:Depends}, seminarix-samples, seminarix-teaching
+Depends: ${misc:Depends},
+ seminarix-samples,
+ seminarix-teaching
 Description: seminarix samples files for eduversum
  eduversum and seminarix-handbook can use these files to describe common 
  functionality of the advertised packages.
+ .
+ metapackage to pull in seminarix-samples and seminarix-teaching.
 
 Package: seminarix-samples
 Architecture: all

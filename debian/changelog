@@ -1,8 +1,17 @@
-seminarix (0.2.4) UNRELEASED; urgency=low
+seminarix (0.2.4) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to dpkg-source 3.0 (native) format.
+  * bump standards version to 3.8.4, no changes necessary.
+  * compact dh7 based debian/rules.
+  * fold debian/control and enhance descriptions slightly.
+  * drop empty directories:
+    - teaching/projekte/digitalbuero/produkte/
+    - teaching/projekte/digitalbuero/produkte/audio/
+    - teaching/projekte/digitalbuero/produkte/bilder/
+    - teaching/projekte/digitalbuero/produkte/video/
+    - teaching/projekte/digitalbuero/produkte/texte/
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 18 Nov 2009 19:00:28 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 05 May 2010 01:19:46 +0200
 
 seminarix (0.2.3) unstable; urgency=low
 
