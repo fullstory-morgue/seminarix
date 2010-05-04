@@ -1,8 +1,27 @@
-seminarix (0.2.5) UNRELEASED; urgency=low
+seminarix (0.2.5) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * drop empty directories:
+    - teaching/projekte/verschluesselung/evaluation/
+    - teaching/projekte/verschluesselung/arbeitsmaterial/
+    - teaching/projekte/verschluesselung/arbeitsmaterial/audio/
+    - teaching/projekte/verschluesselung/arbeitsmaterial/bilder/
+    - teaching/projekte/verschluesselung/arbeitsmaterial/video/
+    - teaching/projekte/verschluesselung/arbeitsmaterial/texte/
+    - teaching/projekte/verschluesselung/produkte/
+    - teaching/projekte/verschluesselung/produkte/audio/
+    - teaching/projekte/verschluesselung/produkte/bilder/
+    - teaching/projekte/verschluesselung/produkte/video/
+    - teaching/projekte/verschluesselung/produkte/texte/
+    - teaching/projekte/digitalbuero/evaluation/
+    - teaching/projekte/digitalbuero/arbeitsmaterial/
+    - teaching/projekte/digitalbuero/arbeitsmaterial/audio/
+    - teaching/projekte/digitalbuero/arbeitsmaterial/bilder/
+    - teaching/projekte/digitalbuero/arbeitsmaterial/video/
+    - teaching/projekte/digitalbuero/arbeitsmaterial/texte/
+    - teaching/projekte/digitalbuero/info/
+    - teaching/projekte/digitalbuero/info/handbuch/
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 05 May 2010 01:23:10 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 05 May 2010 01:34:57 +0200
 
 seminarix (0.2.4) unstable; urgency=low
 
