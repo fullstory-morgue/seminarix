@@ -1,8 +1,8 @@
-seminarix (0.2.8) UNRELEASED; urgency=low
+seminarix (0.3.0) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to aptosid.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 08 Aug 2010 04:58:28 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 29 Aug 2010 21:42:06 +0200
 
 seminarix (0.2.7) unstable; urgency=low
 
