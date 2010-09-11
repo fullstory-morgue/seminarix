@@ -1,8 +1,11 @@
 seminarix (0.2.6) unstable; urgency=low
 
   * bump standards version to 3.9.1, no changes necessary.
+  * drop examples for KEduca, the project has been abandoned upstream and
+    Debian packages are no longer available.
+  * elaborate long description a bit further, to make lintian happy.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 04 Aug 2010 00:16:19 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 04 Aug 2010 00:38:46 +0200
 
 seminarix (0.2.5) unstable; urgency=low
 

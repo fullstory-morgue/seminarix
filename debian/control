@@ -25,16 +25,39 @@ Package: seminarix-samples
 Architecture: all
 Depends: ${misc:Depends}
 Suggests: eduversum
-Description: seminarix samples files for eduversum
+Description: eduversum samples files for seminarix
  eduversum and seminarix-handbook can use these samples to describe common 
- functionality of the advertised packages.
+ functionality of the advertised packages:
+  * OpenOffice.org
+  * kPresenter
+  * kdissert
+  * KTurtle
+  * stopmotion
+  * Vym
+  * WxMaxima
+ .
+ Contents are currently only available in german language.
 
 Package: seminarix-teaching
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Suggests: eduversum
-Conflicts: seminarix-notebook-training
-Replaces: seminarix-notebook-training
-Provides: seminarix-notebook-training
 Description: seminarix teaching files for eduversum
- Web-Pages for application explanations
+ Suggestions and examples for methods to use computer aided teaching.
+ Overviews and work sheets are provided for the following use cases:
+  * documentation and publishing using office suites
+  * image editing and manipulation
+  * privacy and data protection
+  * backup procedures
+  * free software and licensing
+  * recreational games
+  * audio editing
+  * presentations
+  * mind mapping
+  * visualizations and vector drawing
+  * website creation
+  * time management
+  * networking
+  * programming
+ .
+ Contents are currently only available in german language.
