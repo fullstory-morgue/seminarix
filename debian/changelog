@@ -1,8 +1,8 @@
-seminarix (0.2.6) UNRELEASED; urgency=low
+seminarix (0.2.6) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * bump standards version to 3.9.1, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 05 May 2010 01:37:33 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 04 Aug 2010 00:16:19 +0200
 
 seminarix (0.2.5) unstable; urgency=low
 
