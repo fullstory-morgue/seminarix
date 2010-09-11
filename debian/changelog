@@ -1,8 +1,8 @@
-seminarix (0.2.7) UNRELEASED; urgency=low
+seminarix (0.2.7) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to compat level 8.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 04 Aug 2010 00:45:08 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 08 Aug 2010 04:58:08 +0200
 
 seminarix (0.2.6) unstable; urgency=low
 
